@@ -14,11 +14,17 @@ My focus is on developing scalable and innovative solutions that drive customer 
 - **Release Management:** AWS, Kubernetes, Datadog, Sentry
 - **Leadership & Communication:** Team guidance, mentorship, cross-functional collaboration, effective documentation, onboarding
 
-## 💼 Projects
+## 💼 Personal Projects
 
-- [Project 1](#) <!-- Add your project links here -->
-- [Project 2](#)
-- [Project 3](#)
+- Python - Music Recommendation System with LLM (https://github.com/ImranMalik-1/vibecloud)
+- Python/Django - Developer-first error tracking and performance monitoring (https://github.com/ImranMalik-1/sentry)
+- Python/Django - School Management Application (https://github.com/ImranMalik-1/django-rest-school-api)
+- Python/FastAPI - Simple Key-Value Store Application (https://github.com/ImranMalik-1/key-value-store-app)
+- ReactJs - Simple Search Application (https://github.com/ImranMalik-1/react-search-app)
+- C# - Old PhonePad Application (https://github.com/ImranMalik-1/OldPhonePadApp)
+
+## 💡 Open Source Contributions 
+
 
 ## 📈 Experience
 

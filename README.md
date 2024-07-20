@@ -1,4 +1,3 @@
-```markdown
 # Hello, I'm Imran Malik! 👋
 
 Welcome to my GitHub profile! I'm a software engineer with a robust background in backend development, cloud technologies,
@@ -75,7 +74,7 @@ My focus is on developing scalable and innovative solutions that drive customer 
 ![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImranMalik-1&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImranMalik-1&theme=radical)
 
----
+
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or chat about tech and innovation.
-```
+

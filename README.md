@@ -1,7 +1,10 @@
 ```markdown
 # Hello, I'm Imran Malik! 👋
 
-Welcome to my GitHub profile! I'm a software engineer with a robust background in backend development, cloud technologies, and leading software projects to successful completion. My focus is on developing scalable and innovative solutions that drive customer satisfaction and operational efficiency.
+Welcome to my GitHub profile! I'm a software engineer with a robust background in backend development, cloud technologies,
+and leading software projects to successful completion.
+
+My focus is on developing scalable and innovative solutions that drive customer satisfaction and operational efficiency.
 
 ## 🛠 Technical Skills
 

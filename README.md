@@ -1,5 +1,3 @@
-Sure, here is the regenerated GitHub intro page based on your resume:
-
 ```markdown
 # Hello, I'm Imran Malik! 👋
 

@@ -1,71 +1,74 @@
 # Hello, I'm Imran Malik! 👋
 
-Welcome to my GitHub profile! I'm a software engineer with a robust background in backend development, cloud technologies,
-and leading software projects to successful completion.
+Welcome to my GitHub profile!  
+I'm a **Lead Backend Engineer** with **5+ years of experience** building **scalable, high-performance microservices** and **cloud-native systems**. My focus is on **secure, efficient architectures** that drive automation, operational efficiency, and customer success.
 
-My focus is on developing scalable and innovative solutions that drive customer satisfaction and operational efficiency.
+---
+
+## 🚀 What I Do
+
+- **Backend & Microservices:** Expert in **Python, FastAPI, Django**, and **asynchronous architectures**.  
+- **Cloud & DevOps:** Deploying **serverless and containerized apps** on **AWS, GCP, Docker, Kubernetes**.  
+- **Data & Automation:** Designing **data pipelines, EDI workflows, and warehouse systems** that scale.  
+- **Leadership:** Leading teams, mentoring developers, and building **high-impact engineering processes**.
+
+---
 
 ## 🛠 Technical Skills
 
-- **Backend:** Python, Django, FastAPI, RabbitMQ, MongoDB, PostgreSQL
-- **Frontend:** JavaScript, ReactJS
-- **Cloud & DevOps:** AWS, Google Cloud Platform (GCP), Docker, Kubernetes, CI/CD, Git, ArgoCD, Datadog, Sentry
-- **Software Development:** TDD, Clean Code, Clean Architecture, Agile, Scrum
-- **Release Management:** AWS, Kubernetes, Datadog, Sentry
-- **Leadership & Communication:** Team guidance, mentorship, cross-functional collaboration, effective documentation, onboarding
+- **Languages & Frameworks:** Python (FastAPI, Django), JavaScript (ReactJS), C#  
+- **Databases:** PostgreSQL, MongoDB, Redis, BigQuery  
+- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, CI/CD, ArgoCD, Datadog, Sentry  
+- **Software Practices:** TDD, Clean Code, SOLID, Agile/Scrum  
+- **Security:** OAuth, OWASP, Automated Security Scans (Snyk)  
 
-## 💼 Personal Projects
+---
 
-- Python - Music Recommendation System with LLM (https://github.com/ImranMalik-1/vibecloud)
-- Python/Django - Developer-first error tracking and performance monitoring (https://github.com/ImranMalik-1/sentry)
-- Python/Django - School Management Application (https://github.com/ImranMalik-1/django-rest-school-api)
-- Python/FastAPI - Simple Key-Value Store Application (https://github.com/ImranMalik-1/key-value-store-app)
-- ReactJs - Simple Search Application (https://github.com/ImranMalik-1/react-search-app)
-- C# - Old PhonePad Application (https://github.com/ImranMalik-1/OldPhonePadApp)
+## 💼 Experience Highlights
 
-## 💡 Open Source Contributions 
-- Under Construction 🚧
+### **ChaiVision** — Lead Software Engineer (EDI & Integrations)  
+*Remote — 03/2025 to Present*  
+- Automated **90%+ of vendor dropship operations**, scaling to **3,600+ weekly orders** with **FastAPI microservices**.  
+- Reduced fulfillment time **from 72 hours to 6 minutes** with a custom inventory automation engine.  
+- Architected a **cloud data warehouse** (BigQuery, GCS) for real-time analytics and forecasting.
 
-## 📈 Experience
+### **Meta Signals** — Senior Software Engineer (Backend)  
+*Bangkok, TH — 08/2024 to 02/2025*  
+- Built the **authentication microservice** powering all customer-facing services.  
+- Automated **security vulnerability detection** in CI pipelines, fixing 90% of open-source issues.
 
-### Manatal - Software Engineer (Backend)
-*Thailand (03/2022 - Current)*
+### **Manatal** — Software Engineer (Backend)  
+*Bangkok, TH — 03/2022 to 06/2024*  
+- Developed **fault-tolerant communication microservices** (FastAPI, MongoDB, RabbitMQ) with **99.99% uptime**.  
+- Optimized MongoDB indexing, cutting **email response time by 78% (550ms → 120ms)**.
 
+*(See [resume](https://imranmalik.cv) for full experience details.)*
 
-### Arrivy - Software Engineer (Full-stack)
-*Lahore, PB (07/2020 - 02/2022)*
+---
 
+## 🌟 Featured Projects
 
-### NetSol - Software Engineer (Intern)
-*Lahore, PB (07/2019 - 08/2019)*
+- [**VibeCloud**](https://github.com/ImranMalik-1/vibecloud) — AI-powered Music Recommendation (Python, LLM)  
+- [**Sentry Clone**](https://github.com/ImranMalik-1/sentry) — Developer-first Error Tracking (Django)  
+- [**Key-Value Store**](https://github.com/ImranMalik-1/key-value-store-app) — FastAPI microservice  
+- [**React Search App**](https://github.com/ImranMalik-1/react-search-app) — Search Interface with Filters  
 
-## 🎓 Education
+---
 
-### NUCES - FAST
-*Bachelor's in Computer Science (07/2020)*
+## 📊 GitHub Stats
 
-## 🌐 Languages
-
-- **English:** Fluent (C1)
-
-## 📺 Social
-
-- [LinkedIn](https://www.linkedin.com/in/malikimran1/)
-- [GitHub](https://github.com/ImranMalik-1/)
-- [YouTube](https://www.youtube.com/@RamadhirAdventures) 
-
-## 📫 Contact Me
-
-- **Email:** [imranmalik_1@outlook.com](mailto:imranmalik_1@outlook.com)
-- **Phone:** +66647433709
-- **Location:** Bangkok, Thailand
-
-## 📈 GitHub Stats
-
-![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImranMalik-1&show_icons=true&theme=radical)
+![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImranMalik-1&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImranMalik-1&theme=radical)
 
+---
 
+## 📫 Connect with Me
 
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or chat about tech and innovation.
+- **Portfolio:** [imranmalik.cv](https://imranmalik.cv)  
+- **LinkedIn:** [linkedin.com/in/malikimran1](https://www.linkedin.com/in/malikimran1/)  
+- **Email:** [imranmalik_1@outlook.com](mailto:imranmalik_1@outlook.com)
 
+---
+
+Thanks for visiting my profile!  
+**Feel free to reach out if you'd like to collaborate on a project or chat about tech and innovation.**
